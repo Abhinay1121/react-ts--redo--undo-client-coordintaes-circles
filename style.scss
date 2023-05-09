@@ -1,0 +1,15 @@
+@import '~bootstrap/scss/bootstrap';
+
+.App {
+  height: 100vh;
+}
+.point {
+  position: absolute;
+  width: 5px;
+  background-color: red;
+  height: 5px;
+  border-radius: 50%;
+}
+button {
+  color: yellow;
+}
